@@ -1,0 +1,6 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+I chose to use Java to build out the application due to my previous coursework and experience with it. I also used Gradle as an easy way to deploy my application, and also Postman as the way to interact with the application with the various functions
+2. What are the advantages and disadvantages of your solution?
+The advantages would be the ease of use and the ease of deployment, although this solution may not work with many different users.
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+My favorite personal project was my Mentis hackathon project because that was my first experience with web development and it allowed me to improve my skills in a short timeframe and taught me how to solve problems in an efficient and accurate way. 

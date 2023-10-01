@@ -1,4 +1,4 @@
-# FetchRewards
+# BE-Internship-Challenge-Fetch
 
 ## API End Points & Documentation
 
